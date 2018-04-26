@@ -1086,11 +1086,11 @@
 	}
 
 	h1 {
-		text-transform: lowercase;
+		text-transform: uppercase;
 	}
 
 	h2 {
-		text-transform: lowercase;
+		text-transform: none;
 		font-size: 1.6em;
 		letter-spacing: -1px;
 		margin-bottom: 1em;
@@ -1306,7 +1306,7 @@
 					right: 40px;
 					top: 1px;
 					line-height: 84px;
-					text-transform: lowercase;
+					text-transform: none;
 					font-size: 1.3em;
 					letter-spacing: -1px;
 				}
